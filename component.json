@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-offcanvas",
+  "repo": "virtru-components/bootstrap-offcanvas",
+  "description": "an off canvas animation plugin for bootstrap",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "components/jquery" : "2.1.0"
+    },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
